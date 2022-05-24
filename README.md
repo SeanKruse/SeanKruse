@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeanKruse
-- 👀 I’m interested in painting miniatures, designing board games, and learning!
-- 🌱 I’m currently learning Intoduction to Theory of Computation, Principles of Programming Languages, Introduction to Astronomy.
-- 💞️ I’m looking to collaborate on Data Structures and Algorithms.
+- 👀 I’m interested in software development, game design, and constantly learning.
+- 🌱 I’m currently learning Intoduction to Theory of Computation, Principles of Programming Languages,  and Introduction to Astronomy.
+- 💞️ I’m looking to collaborate on Data Structures and Algorithms (Python, Java, Scala).
 - 📫 How to reach me -- seanfkruse@gmail.com
 
 <!---
