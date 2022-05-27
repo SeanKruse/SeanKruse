@@ -31,7 +31,7 @@
 
 ---
 
-### :fire: My Stats : https://github-readme-streak-stats.herokuapp.com/SeanKruse
+### :fire: My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github-readme-streak-stats.herokuapp.com/SeanKruse&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="350"/>
