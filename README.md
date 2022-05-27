@@ -1,12 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="350"/>
-</div>
-
-<div id="badges">
+</div><div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 
 - 👋 Hi, I’m @SeanKruse
 - 👀 I’m interested in software development, game design, and constantly learning.
