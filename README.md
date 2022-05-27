@@ -7,7 +7,11 @@
   </a>
 </div>
 
-
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
 - 👋 Hi, I’m @SeanKruse
 - 👀 I’m interested in software development, game design, and constantly learning.
 - 🌱 I’m currently learning Intoduction to Theory of Computation, Principles of Programming Languages,  and Introduction to Astronomy.
