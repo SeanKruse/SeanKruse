@@ -15,7 +15,7 @@
 - 👀 I’m interested in software development, game design, and constantly learning.
 - 🌱 I’m currently learning Intoduction to Theory of Computation, Principles of Programming Languages,  and Introduction to Astronomy.
 - 💞️ I’m looking to collaborate on Data Structures and Algorithms (Python, Java, Scala).
-- 📫 How to reach me -- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sean-kruse-604221240) seanfkruse@gmail.com
+- 📫 How to reach me -- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sean-kruse-604221240) | seanfkruse@gmail.com
 
 ---
 
