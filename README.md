@@ -50,6 +50,7 @@
 
 <details>
 <summary> Personal Projects </summary>
+[Restaurant Website](https://seankruse.github.io/mock-restaurant/)
 </details>
 
 ---
