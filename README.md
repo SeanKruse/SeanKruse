@@ -51,7 +51,7 @@
 <details>
 <summary> Personal Projects </summary>
     
-[Restaurant Website](https://github.com/SeanKruse/mock-restaurant)
+[Restaurant Website](https://github.com/SeanKruse/mock-restaurant/tree/main)
 </details>
 
 ---
