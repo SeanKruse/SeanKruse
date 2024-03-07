@@ -5,7 +5,7 @@
 - 👀 I’m interested in software development, game design theory, and pc hardware.
 - 🌱 I’m currently working on React projects and updating our Chrome Extension.
 - 💞️ I’m looking to collaborate on Front-End Development.
-- ⚡ I spend my free time painting miniatures, reading design theory, and exploring new technologies.
+- ⚡ I spend my free time reading, tackling new projects, and exploring new technologies.
 - 📫 How to reach me -- seanfkruse@gmail.com
 
 ### 🤝 Connect with me:
