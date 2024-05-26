@@ -1,4 +1,4 @@
-<img src="https://github.com/SeanKruse/SeanKruse/blob/main/banner.png" alt="banner">
+<img src="https://github.com/SeanKruse/SeanKruse/blob/main/banner-header.png" alt="banner">
 
 ---
 
