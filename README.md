@@ -52,6 +52,8 @@
 <summary> Personal Projects </summary>
     
 [Restaurant Website](https://github.com/SeanKruse/mock-restaurant/tree/main)
+[Kathleen's Website](https://www.khdcounseling.com/)
+[Mary Ann's Website](https://maryannwertzcounseling.com/)
 </details>
 
 ---
