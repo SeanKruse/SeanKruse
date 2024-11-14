@@ -91,7 +91,6 @@
 ---
 
 ### :fire: My Stats :
-<img src= "https://myreadme.vercel.app/api/embed/SeanKruse?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
 
 ---
 
